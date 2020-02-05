@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0fff422d-132d-4820-97e2-52e602877f95/resourceGroups/fullwebapi/providers/Microsoft.Web/sites/apieryandicoding"
+}
